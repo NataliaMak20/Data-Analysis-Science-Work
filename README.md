@@ -8,7 +8,7 @@
 ##### 3. Project 2 with Police Check Post
 [Missing values, Age distribution, stop duration](https://github.com/NataliaMak20/Data-Analysis-Science-Work/blob/main/Police%20Data%20Analysis/Police%20Check%20Post%20Data%20Analysis.ipynb)
 ### Power BI.
-##### Retail Project.
+##### 1. Retail Project.
 ##### Poject Steps
 - Requirement Gathering (Business Requirement Document)
 - Data Collections (Database/CSV/Excel)
@@ -19,3 +19,6 @@
 - RLS (Raw Level Security)
 
 [Full Sales Report](https://github.com/NataliaMak20/Data-Analysis-Science-Work/blob/main/PowerBI/Retail%20Report/Retail%20Project.pdf)
+
+##### 2. Customer churn Project.
+##### The main focus of the project is why customers are churning. 
