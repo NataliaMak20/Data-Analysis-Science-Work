@@ -1,4 +1,5 @@
 # Data-Analysis-Science-Work
+### Jupyter Python.
 ##### 1. Statistical commands in python.
 [Info, sum, mean, std(standard deviation), var(variance), describe commands](https://github.com/NataliaMak20/Data-Analysis-Science-Work/tree/main/statistical%20analysis)
 ##### 2. Project 1 with Weather dataset. 
@@ -6,3 +7,15 @@
 [Full Weather Data Analysis](https://github.com/NataliaMak20/Data-Analysis-Science-Work/blob/main/Weather%20Data%20Analysis/Weather%20Data%20Analysis.ipynb)
 ##### 3. Project 2 with Police Check Post
 [Missing values, Age distribution, stop duration](https://github.com/NataliaMak20/Data-Analysis-Science-Work/blob/main/Police%20Data%20Analysis/Police%20Check%20Post%20Data%20Analysis.ipynb)
+### Power BI.
+##### Retail Project.
+##### Poject Steps
+- Requirement Gathering (Business Requirement Document)
+- Data Collections (Database/CSV/Excel)
+- Data Modelling
+- Data Cleaning / Data Preprocessing
+- UI Report (Charts/Custom Charts)
+- Additional Information(DAX Calculations)
+- RLS (Raw Level Security)
+
+[Full Sales Report](https://github.com/NataliaMak20/Data-Analysis-Science-Work/blob/main/PowerBI/Retail%20Report/Retail%20Project.pdf)
