@@ -1,4 +1,4 @@
-# Data-Analysis-Science-Work
+# My Data Science Portfolio including Case Studies that I completed, which are solving a particular business problem.
 ### Jupyter Python.
 ##### 1. Statistical commands in python.
 [Info, sum, mean, std(standard deviation), var(variance), describe commands](https://github.com/NataliaMak20/Data-Analysis-Science-Work/tree/main/statistical%20analysis)
