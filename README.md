@@ -22,5 +22,6 @@
 
 ##### 2. Customer churn Project.
 ##### The main focus of the project is why customers are churning. 
-[Full Customer Churn Report](https://github.com/NataliaMak20/Data-Analysis-Science-Work/blob/main/PowerBI/Customer%20Churn%20Project/Customer%20Churn%20Analysis%20Project.pdf) 
+[Full Customer Churn Report](https://github.com/NataliaMak20/Data-Analysis-Science-Work/blob/main/PowerBI/Customer%20Churn%20Project/Customer%20Churn%20Analysis%20Project.pdf)
+
 [Customer Churn Analysis](https://github.com/NataliaMak20/Data-Analysis-Science-Work/blob/main/PowerBI/Customer%20Churn%20Analysis.pdf)
